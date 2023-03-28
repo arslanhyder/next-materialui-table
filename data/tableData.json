@@ -1,0 +1,28 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "title": "Sony Noise - Cancelling Headphones",
+      "price": 850,
+      "time": "45 mins",
+      "closes": "Sun, 26 Feb"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1851&q=80",
+      "title": "Laptop",
+      "price": 250,
+      "time": "48 mins",
+      "closes": "Sun, 28 Feb"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "title": "Watch",
+      "price": 150,
+      "time": "38 mins",
+      "closes": "Sun, 21 Feb"
+    }
+  ]
+}
